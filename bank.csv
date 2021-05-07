@@ -1,11 +1,9 @@
 index,question,answer,mark
-1,fish cannot blink?,True,5.0
-2,seahorses have no teeth or stomach?,True,5.0
-3,the knight is the only piece in chess which can only move diagonally?,False,5.0
-4,"The blue whale, the world's largest animal, has teeth 12 inches long",True,5.0
-5,The main innovation that made cars widely available and affordable was the assembly line.,True,5.0
-6,The Statue of Liberty was a gift from France to America.,True,5.0
-7,Kryptonite is the source of Superman's power.,False,5.0
-8,"Ozone is ""good"" in the upper atmosphere but ""bad"" in the lower.",True,5.0
-2,fish ?,True,7.0
-2,fish ?,True,7.0
+1,fish cannot blink?,TRUE,5
+2,seahorses have no teeth or stomach?,TRUE,5
+3,the knight is the only piece in chess which can only move diagonally?,FALSE,5
+4,"The blue whale, the world's largest animal, has teeth 12 inches long",TRUE,5
+5,The main innovation that made cars widely available and affordable was the assembly line.,TRUE,5
+6,The Statue of Liberty was a gift from France to America.,TRUE,5
+7,Kryptonite is the source of Superman's power.,FALSE,5
+8,"Ozone is ""good"" in the upper atmosphere but ""bad"" in the lower.",TRUE,5
